@@ -42,20 +42,34 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
+
+
 ![os1](https://github.com/POZHILANVD/OS-Linux-commands-Shell-script/assets/144870498/c73faa54-2dca-4e2b-8477-7d845f912ecf)
+
+
 cat < file2
 ## OUTPUT
+
 ![os2](https://github.com/POZHILANVD/OS-Linux-commands-Shell-script/assets/144870498/cb162366-bebd-4b08-9f58-079af8eed8fd)
 
 # Comparing Files
 cmp file1 file2
+
 ## OUTPUT
+
  ![os3](https://github.com/POZHILANVD/OS-Linux-commands-Shell-script/assets/144870498/aea1ed1a-42d6-4294-bba8-c8be61bc8577)
+
 comm file1 file2
  ## OUTPUT
+
+ 
 ![os4](https://github.com/POZHILANVD/OS-Linux-commands-Shell-script/assets/144870498/83c356b4-72a9-49bb-b74b-622be4c9b69c) 
+
+
 diff file1 file2
 ## OUTPUT
+
+
 ![0s5](https://github.com/POZHILANVD/OS-Linux-commands-Shell-script/assets/144870498/bb2a3c95-ea33-4b38-8d33-152918a2c74c)
 #Filters
 
@@ -91,6 +105,7 @@ cut -d "|" -f 1 file22
 
 cut -d "|" -f 2 file22
 ## OUTPUT
+
 ![os8](https://github.com/POZHILANVD/OS-Linux-commands-Shell-script/assets/144870498/6db1936c-a251-4614-8c9f-be5a8dddfab3)
 
 
